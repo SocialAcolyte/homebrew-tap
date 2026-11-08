@@ -1,6 +1,6 @@
 cask "monet-shot" do
-  version "0.2.0"
-  sha256 "7f38eec357fc88de362593eff052c890ec8bf63432b85237909476188abdfdfb"
+  version "0.2.1"
+  sha256 "f6d29810eef1027f6f79fa8e82ccb7b5e7cc94999246cbfafbcaad483435b798"
 
   url "https://github.com/SocialAcolyte/monet-shot/releases/download/v#{version}/MonetShot-#{version}.zip"
   name "Monet Shot"
